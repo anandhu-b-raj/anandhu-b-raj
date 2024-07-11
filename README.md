@@ -45,7 +45,7 @@
 
 ### ⚙️ GitHub Analytics
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=anandhu-b-raj&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnu-prasadtv&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=anandhu-b-raj&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&card" /><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandhu-b-raj&include_all_commits=true&count_private=true&show_icons=true&theme=chartreuse-dark&layout=compact" />
 
 ### ⚙️ Connect with Me
 
